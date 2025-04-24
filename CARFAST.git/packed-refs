@@ -1,0 +1,10 @@
+# pack-refs with: peeled fully-peeled sorted 
+95d29792d100e9ab3512f662122cc70bf33968e1 refs/heads/androisApp
+95d29792d100e9ab3512f662122cc70bf33968e1 refs/heads/git
+95d29792d100e9ab3512f662122cc70bf33968e1 refs/heads/github
+95d29792d100e9ab3512f662122cc70bf33968e1 refs/heads/gradle
+95d29792d100e9ab3512f662122cc70bf33968e1 refs/heads/idea
+95d29792d100e9ab3512f662122cc70bf33968e1 refs/heads/kotlin
+95d29792d100e9ab3512f662122cc70bf33968e1 refs/heads/main
+95d29792d100e9ab3512f662122cc70bf33968e1 refs/heads/snapshots
+95d29792d100e9ab3512f662122cc70bf33968e1 refs/heads/vscode

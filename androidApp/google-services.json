@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1034206499015",
+    "project_id": "carfast-2025j",
+    "storage_bucket": "carfast-2025j.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034206499015:android:deda9ac2334bbbc4a52ee2",
+        "android_client_info": {
+          "package_name": "com.example.carfast.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj76P1i5XUjEsZqJLV_4hQ1z0vP4Zecp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

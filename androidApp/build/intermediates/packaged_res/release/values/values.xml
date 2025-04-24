@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">1034206499015</string>
+    <string name="google_api_key" translatable="false">AIzaSyBj76P1i5XUjEsZqJLV_4hQ1z0vP4Zecp4</string>
+    <string name="google_app_id" translatable="false">1:1034206499015:android:deda9ac2334bbbc4a52ee2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBj76P1i5XUjEsZqJLV_4hQ1z0vP4Zecp4</string>
+    <string name="google_storage_bucket" translatable="false">carfast-2025j.firebasestorage.app</string>
+    <string name="project_id" translatable="false">carfast-2025j</string>
+    <style name="AppTheme" parent="android:Theme.Material.NoActionBar"/>
+</resources>

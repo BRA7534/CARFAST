@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.carfast.android.androidApp-mergeReleaseResources-64:/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "D:\\Users\\Boualem\\.gradle\\caches\\8.9\\transforms\\87536d875cd05c0563fad3a3c21ca18c\\transformed\\work-runtime-2.9.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
+                    }
+                }
+            ]
+        }
+    ]
+}
